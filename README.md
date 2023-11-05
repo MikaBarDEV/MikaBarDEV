@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Mika, this is my dev account
+I'm Mika and this is my developers account on GitHub
 
 
 
